@@ -1,0 +1,14 @@
+{
+  "name": "7.7.cypress-part-2-hw-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nikita Bezmenov",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.17.1"
+  }
+}
