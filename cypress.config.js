@@ -1,5 +1,5 @@
 module.exports = {
-  projectId: "6atxid",
+  projectId: "hrtg8f",
   e2e: {
     baseUrl: "https://petstore.swagger.io/v2/user",
     setupNodeEvents(on, config) {
